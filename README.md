@@ -1,4 +1,4 @@
-![Banner](https://github.com/AzadAnsari1505/AzadAnsari1505/commit/da501d67043a0a90b150dedcf574ba56d29d3f2a)
+![logo](https://github.com/AzadAnsari1505/AzadAnsari1505/commit/da501d67043a0a90b150dedcf574ba56d29d3f2a)
 <h1 align="center">Hi 👋, I'm Azad Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
